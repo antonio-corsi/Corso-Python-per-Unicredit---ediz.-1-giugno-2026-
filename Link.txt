@@ -3,3 +3,6 @@ https://lms.godeploy.it/
 
 # link al video sulla guida all'uso della macchina virtuale Overnet
 https://share.synthesia.io/65551e7e-bd01-4bde-aabc-0d3f3848bd67
+
+# link al repository github del corso
+https://github.com/antonio-corsi/Corso-Python-per-Unicredit---ediz.-1-giugno-2026-
